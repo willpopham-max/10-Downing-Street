@@ -1,0 +1,6 @@
+{
+  "name": "10 Downing Street",
+  "description": "A high-stakes, text-based political strategy game where you play as the Prime Minister of the UK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
